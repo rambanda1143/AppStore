@@ -1,0 +1,18 @@
+.app-container{
+    display: flex;
+   height: 120px;
+   width: 120px;
+   /* padding: 20px; */
+   background-color: #ffff;
+   flex-direction: column;
+    /* border: 1px solid red; */
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+  
+   
+}
+.app-image{
+    height: 50px;
+    width:50px;
+}

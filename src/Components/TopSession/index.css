@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+.app-title{
+    font-size: 20px;
+    font-family: "Bree Serif";
+    font-weight: bold;
+
+
+}
+
+.top-main-container{
+    display: flex;
+    /* border: 1px solid red; */
+    flex-direction: column;
+    align-items: center;
+    height: 20%;
+}
+
+.searchimag{
+    height: 25px;
+    width: 25px;
+    background-color: transparent;
+    border: none;
+}
+.input-container{
+    border: 1px solid grey;
+    display: flex;
+    border-radius: 4px;
+    
+}
+.search-input{
+    border: 0px;
+}

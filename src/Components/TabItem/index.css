@@ -1,0 +1,31 @@
+.tab-list{
+    list-style: none;
+    border-left:none ;
+    border-top: none;
+    border-right: none;
+    /* border-bottom: 1px solid grey; */
+   
+    
+}
+.tab-container{
+    border: 1px solid grey;
+    display: flex;
+    padding: 5px;
+    flex-direction: row;
+    border-top: none;
+    border-left: none;
+    gap: 10px;
+    border-right: none;
+    /* border-width: 2px; */
+
+    /* border-bottom: 1px solid grey; */
+}
+.styled{
+    border-left:none   ;
+    border-right: none;
+    border-top: none;
+    color: blue;
+    /* border-width: 2px; */
+    border-bottom: 1px solid blue;
+    
+}
